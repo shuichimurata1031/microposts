@@ -1,2 +1,0 @@
-class Micropst < ApplicationRecord
-end
